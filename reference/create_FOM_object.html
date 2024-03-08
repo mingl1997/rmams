@@ -76,85 +76,119 @@
     <div class="section level2">
     <h2 id="arguments">Arguments<a class="anchor" aria-label="anchor" href="#arguments"></a></h2>
     <dl><dt>id</dt>
-<dd></dd>
+<dd><p>Denotes the unique id of the matrix, annotation data frame, or graph and should be unique</p></dd>
 
 
 <dt>dataset_id</dt>
-<dd></dd>
+<dd><p>ID of the dataset</p></dd>
+
+
+<dt>filepath</dt>
+<dd><p>Path to the file</p></dd>
+
+
+<dt>accessor</dt>
+<dd><p>Accessor</p></dd>
 
 
 <dt>data_type</dt>
-<dd></dd>
+<dd><p>Explicitly describes the type of data stored in the FOM</p></dd>
 
 
 <dt>representation</dt>
-<dd></dd>
+<dd><p>Preferred representation of the matrix</p></dd>
 
 
 <dt>representation_description</dt>
-<dd></dd>
+<dd><p>More detail about the representation</p></dd>
 
 
 <dt>obs_unit</dt>
-<dd></dd>
+<dd><p>Biological unit of the observations</p></dd>
 
 
 <dt>processing</dt>
-<dd></dd>
+<dd><p>Used to describe the nature of the data contained within the matrix</p></dd>
 
 
 <dt>processing_description</dt>
-<dd></dd>
+<dd><p>More detail about the nature of the data</p></dd>
 
 
 <dt>analyte</dt>
-<dd></dd>
+<dd><p>Used to describe the biological analytes being quantified in the matrix</p></dd>
 
 
 <dt>analyte_description</dt>
-<dd></dd>
+<dd><p>More details about the analytes</p></dd>
 
 
 <dt>modality</dt>
-<dd></dd>
+<dd><p>Describes the modality of the matrix, may be the same as another field or combination of other fields</p></dd>
 
 
 <dt>obs_subset</dt>
-<dd></dd>
+<dd><p>Describes the subset of observations that are present in the FOM</p></dd>
 
 
 <dt>obs_subset_description</dt>
-<dd></dd>
+<dd><p>More about the subset of observations</p></dd>
 
 
 <dt>feature_subset</dt>
-<dd></dd>
+<dd><p>Describes the subset of features that are present in the FOM</p></dd>
 
 
 <dt>feature_subset_description</dt>
-<dd></dd>
+<dd><p>More about the subset of features</p></dd>
 
 
 <dt>record_id</dt>
-<dd></dd>
+<dd><p>Unique id to denote a combination of entries for record_package_name, record_package_version, record_function_name, and record_function_parameters</p></dd>
 
 
 <dt>parent_id</dt>
-<dd></dd>
+<dd><p>Denotes the id(s) of the parent matrices that were used to produce the matrix</p></dd>
 
 
 <dt>parent_relationship</dt>
-<dd></dd>
+<dd><p>Denotes the type of relationship with the parent matrix or matrices</p></dd>
 
 
 <dt>parent_relationship_description</dt>
-<dd></dd>
+<dd><p>More about the type of relationship with the parent matrix or matrices</p></dd>
+
+
+<dt>oid</dt>
+<dd><p>Character vector or combination of character vectors used to denote the unique ID of each observation</p></dd>
+
+
+<dt>fid</dt>
+<dd><p>Character vector or combination of character vectors used to denote the unique ID of each feature</p></dd>
+
+
+<dt>obs</dt>
+<dd><p>Name of matrices or data frames with the same number of observations as its corresponding FOM</p></dd>
+
+
+<dt>fea</dt>
+<dd><p>Name of matrices or data frames with the same number of features as its corresponding FOM</p></dd>
+
+
+<dt>ong</dt>
+<dd><p>Name of observation neighborhood graph</p></dd>
 
 
 <dt>fng</dt>
-<dd></dd>
+<dd><p>Name of feature neighborhood graph</p></dd>
 
 </dl></div>
+    <div class="section level2">
+    <h2 id="value">Value<a class="anchor" aria-label="anchor" href="#value"></a></h2>
+    
+
+<p>a FOM S4 object for further use with other MAMS objects and sub-objects</p>
+    </div>
 
   </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
     </nav></aside></div>
