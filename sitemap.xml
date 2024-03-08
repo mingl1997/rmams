@@ -13,6 +13,30 @@
     <loc>https://salzcamino.github.io/rmams/index.html</loc>
   </url>
   <url>
+    <loc>https://salzcamino.github.io/rmams/reference/FOM-class.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/accessor-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/accessor-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/analyte-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/analyte-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/analyte_description-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/analyte_description-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/check_MAMS.html</loc>
+  </url>
+  <url>
     <loc>https://salzcamino.github.io/rmams/reference/convert_seurat_to_MAMS.html</loc>
   </url>
   <url>
@@ -46,6 +70,114 @@
     <loc>https://salzcamino.github.io/rmams/reference/create_REC_object.html</loc>
   </url>
   <url>
+    <loc>https://salzcamino.github.io/rmams/reference/data_type-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/data_type-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/dataset_id-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/dataset_id-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/feature_subset-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/feature_subset-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/feature_subset_description-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/feature_subset_description-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/filepath-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/filepath-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/id-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/id-set-FOM-method.html</loc>
+  </url>
+  <url>
     <loc>https://salzcamino.github.io/rmams/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/modality-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/modality-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/obs_subset-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/obs_subset-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/obs_subset_description-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/obs_subset_description-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/obs_unit-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/obs_unit-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/parent_id-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/parent_id-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/parent_relationship-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/parent_relationship-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/parent_relationship_description-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/parent_relationship_description-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/processing-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/processing-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/processing_description-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/processing_description-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/record_id-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/record_id-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/representation-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/representation-set-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/representation_description-FOM-method.html</loc>
+  </url>
+  <url>
+    <loc>https://salzcamino.github.io/rmams/reference/representation_description-set-FOM-method.html</loc>
   </url>
 </urlset>
